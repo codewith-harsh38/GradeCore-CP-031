@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# PyInstaller
+# PyInstaller adds a hidden branch
+### PyInstaller ###
+*.manifest
+*.spec
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# GradeCore specific
+test_output/
+*.log

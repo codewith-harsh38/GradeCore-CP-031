@@ -1,0 +1,12 @@
+# GradeCore - Standard Library Only
+# No external dependencies required.
+
+# Python 3 standard library modules used:
+# - sys: Application exit handling
+# - Built-in data structures: lists, dicts
+# - String formatting for terminal output
+
+# This project requires NO third-party packages.
+# It runs on Python 3 standard library only.
+
+python_version >= 3.6
